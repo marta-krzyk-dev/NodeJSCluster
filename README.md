@@ -9,7 +9,7 @@ To see one-thread version of the project and the explanation of the rest of the 
 [See the tests in action and watch the code being explained line by line](https://www.youtube.com/watch?v=4P79amJ9D1o)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=1MF_5zZkj9g
-" target="_blank"><img src="http://img.youtube.com/vi/1MF_5zZkj9g/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/1MF_5zZkj9g/0.jpg"
 alt="Pirple Node JS Master Class Homework Assignment #6" width="300" height="200" border="10" /></a>
 
 ## Manual
