@@ -1,9 +1,6 @@
 # Node JS Cluster
 6th homework assignment for [Pirple's NodeJS master class](https://pirple.thinkific.com/courses/the-nodejs-master-class).
-The project includes a simple RESTful API greeting user with 'Hello' in different languages. It utilizes Cluster module for performance.
-
-## Features
-- [x] The code run across all the cores of machine it is run on
+The project includes a simple RESTful API greeting user with 'Hello' in different languages. With aid of the **OS** and **Cluster** modules the app forks worker threads from the master class and then starts server on each of the worker threads.
 
 ## Screencast
 
@@ -32,9 +29,9 @@ Optionally, one can set DEBUG variable to print out messages in the console. Bot
 `set DEBUG=cluster & node index.js `
 
 ## Printscreens
-### Console output after starting the app with cluster debug messages
+### Console output for `node index.js` (starting the app with cluster debug messages)
 ![HelloAPI1](https://github.com/marta-krzyk-dev/NodeJSCluster/blob/master/PrintScreens/console_output_with_debug_messages.png?raw=true)
 
-### Console output after starting the app (w\o debug messages)
+### Console output for `set DEBUG=cluster & node index.js` (starting the app w\o debug messages)
 ![HelloAPI2](https://github.com/marta-krzyk-dev/NodeJSCluster/blob/master/PrintScreens/console_output.png?raw=true)
 
