@@ -14,9 +14,7 @@ To see one-thread version of the project and the explanation of the rest of the 
 " target="_blank"><img src="http://img.youtube.com/vi/1MF_5zZkj9g/0.jpg"
 alt="Pirple Node JS Master Class Homework Assignment #6" width="300" height="200" border="10" /></a>
 
-## Manual
-
-### Set up
+## Set up
 0. Download the project.
 1. Open the command prompt (for Windows, click Start icon and type in `cmd`) and go to the project directory.eg. :
 
