@@ -2,7 +2,6 @@
 6th homework assignment for [Pirple's NodeJS master class](https://pirple.thinkific.com/courses/the-nodejs-master-class).
 The project includes a simple RESTful API greeting user with 'Hello' in different languages. With aid of the **OS** and **Cluster** modules the app forks worker threads from the master class and then starts server on each of the worker threads.
 
-The 
 ## Screencast
 
 [See the tests in action and watch the code being explained line by line](https://www.youtube.com/watch?v=4P79amJ9D1o)
