@@ -1,6 +1,6 @@
 # Node JS Cluster
 6th homework assignment for [Pirple's NodeJS master class](https://pirple.thinkific.com/courses/the-nodejs-master-class).
-The project includes a simple RESTful API greeting user with 'Hello' in different languages. With aid of the **OS** and **Cluster** modules the app forks worker threads from the master thread and afterwards starts server on each of the worker threads.
+The project includes a simple RESTful API greeting user with *'Hello'* in different languages. With aid of the **OS** and **Cluster** modules the app forks worker threads from the master thread and afterwards starts server on each of the worker threads.
 
 To see one-thread version of the project and the explanation of the rest of the code please go to: [RESTful Hello API project](https://github.com/marta-krzyk-dev/RESTful-Hello-API).
 
