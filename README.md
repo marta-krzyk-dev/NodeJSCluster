@@ -25,11 +25,11 @@ alt="Pirple Node JS Master Class Homework Assignment #6" width="300" height="200
 
 `node index.js`
 
-Optionally, one can set DEBUG variable to print out messages in the console. (for Windows):
+Optionally, one can set DEBUG variable to print out messages in the console. Both version will result in the same output for this app. (for Windows):
 
-`set DEBUG=* & node index.js // Print out all debug messages`
+`set DEBUG=* & node index.js // Print out debug messages`
 
-`set DEBUG=helpers & node index.js // Print out debug messages coming from helpers module`
+`set DEBUG=cluster & node index.js `
 
 ## Printscreens
 ### Console output after starting the app with cluster debug messages
