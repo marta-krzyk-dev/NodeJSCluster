@@ -32,3 +32,9 @@ Optionally, one can set DEBUG variable to print out messages in the console. (fo
 `set DEBUG=helpers & node index.js // Print out debug messages coming from helpers module`
 
 ## Printscreens
+### Console output after starting the app with cluster debug messages
+![HelloAPI1](https://github.com/marta-krzyk-dev/NodeJSCluster/blob/master/PrintScreens/console_output_with_debug_messages.png?raw=true)
+
+### Console output after starting the app (w\o debug messages)
+![HelloAPI2](https://github.com/marta-krzyk-dev/NodeJSCluster/blob/master/PrintScreens/console_output.png?raw=true)
+
