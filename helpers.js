@@ -26,6 +26,7 @@ helpers.printOutCPUInfo = function () {
         for (i = 0; i < cpus.length; ++i) {
             output += `CPU ${1 + i}. Model: ${cpus[i].model}\tSpeed: ${cpus[i].speed}\n`;
         }
+
         output += `\n--------------- CPUs INFO END ---------------`;
     }
 
