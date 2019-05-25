@@ -4,6 +4,8 @@ The project includes a simple RESTful API greeting user with 'Hello' in differen
 
 To see one-thread version of the project and the explanation of the rest of the code please go to: [RESTful Hello API project](https://github.com/marta-krzyk-dev/RESTful-Hello-API).
 
+![Header](https://github.com/marta-krzyk-dev/NodeJSCluster/blob/master/PrintScreens/header_cookie_monster.jpg?raw=true)
+
 ## Screencast
 
 [See the tests in action and watch the code being explained line by line](https://www.youtube.com/watch?v=4P79amJ9D1o)
