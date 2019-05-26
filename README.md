@@ -31,9 +31,9 @@ Optionally, one can set DEBUG variable to print out messages in the console. Bot
 `set DEBUG=cluster & node index.js `
 
 ## Printscreens
-### Console output for `node index.js` (starting the app with cluster debug messages)
+### Console output for `set DEBUG=cluster & node index.js` (starting the app with cluster debug messages)
 ![HelloAPI1](https://github.com/marta-krzyk-dev/NodeJSCluster/blob/master/PrintScreens/console_output_with_debug_messages.png?raw=true)
 
-### Console output for `set DEBUG=cluster & node index.js` (starting the app w\o debug messages)
+### Console output for `node index.js` (starting the app w\o debug messages)
 ![HelloAPI2](https://github.com/marta-krzyk-dev/NodeJSCluster/blob/master/PrintScreens/console_output.png?raw=true)
 
